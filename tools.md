@@ -5,3 +5,10 @@ Chrome extensions:
 - Requestly (proxy, in-depth request processing)
 - FireShot (screenshots)
 
+JetBrains IDE plugins:
+
+- GitToolBox
+
+Jmeter:
+
+- Jmeter Plugin Manager
